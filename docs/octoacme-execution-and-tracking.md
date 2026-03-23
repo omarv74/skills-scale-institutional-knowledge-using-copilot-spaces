@@ -4,8 +4,9 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
+- Daily standups (15 min) — focus on progress, blockers, dependencies (facilitated by Scrum Master / Delivery Facilitator)
 - Weekly delivery sync — show progress, updates, and flagged risks
+- Sprint planning, review, and retrospective ceremonies — owned by Scrum Master in coordination with Project Manager and Product Manager
 - Demo/Review at the end of each sprint or milestone
 
 ## Workflows
@@ -27,6 +28,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
 - Use dashboards for key signals (errors, latency, usage)
+- Data Analyst / Analytics Engineer owns dashboard design and instrumentation requirements; coordinate with Developers on telemetry and with Product Manager on KPIs
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
@@ -38,3 +40,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Definition of Ready (DoR) checklist used before sprint planning (see [Checklists & Templates](./octoacme-checklists.md))
+- [ ] Scrum Master / Delivery Facilitator identified and ceremonies scheduled
