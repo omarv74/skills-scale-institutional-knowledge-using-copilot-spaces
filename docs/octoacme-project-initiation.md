@@ -17,7 +17,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
 - Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Resource needs (team roles, rough effort estimate) — include UX Designer and Solutions Architect if the initiative has user-facing or architecturally significant components
 
 ## Project One-pager Template
 - Project name:
@@ -35,6 +35,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] UX Designer engaged for user-facing scope (user research, initial flows)
+- [ ] Solutions Architect engaged for architecturally significant scope (technical feasibility review)
 
 ## Decision Gate
 Move to planning when:
